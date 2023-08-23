@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# iNotebook-An Effortless Note Organization and Management Web App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+The iNotebook is a simple and user-friendly tool that  allows users to create, edit, and delete notes. Users can also sign up or log in to their accounts to access their personalized notes.
 
-### `npm start`
+## Live Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+You can try out the live demo of the app [here](https://resplendent-pavlova-2f7640.netlify.app/).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
 
-### `npm test`
+- User Authentication: Sign up or log in to access the app.
+- Create Notes: Add new notes with a title and content.
+- Edit Notes: Modify existing notes.
+- Delete Notes: Remove notes you no longer need.
+- List of Notes: See all your notes at a glance.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Usage
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. *Sign Up / Log In:*
+   - New users can sign up with their email and password.
+   - Returning users can log in using their credentials.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. *Dashboard:*
+   - Upon logging in, you'll see your list of notes.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. *Create Note:*
+   - Click "New Note" to create a new note.
+   - Provide a title and content, then click "Save."
 
-### `npm run eject`
+4. *Edit Note:*
+   - Open a note to view it, then click "Edit" to modify.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+5. *Delete Note:*
+   - Inside a note, click "Delete" to remove it.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+6. *Logout:*
+   - To log out, click "Logout" in the navigation menu.
