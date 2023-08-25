@@ -7,7 +7,7 @@ The iNotebook is a simple and user-friendly tool that  allows users to create, e
 
 ## Live Demo
 
-You can try out the live demo of the app [here](https://resplendent-pavlova-2f7640.netlify.app/).
+You can try out the live demo of the app [here](https://shimmering-marigold-236c58.netlify.app).
 
 ## Features
 
